@@ -75,7 +75,7 @@ By cutting unnecessary tokens and simplifying inputs, it improves efficiency, ex
     npm install
     ```
 
-Start development server:
+3. **Start development server**:
 
     ```bash
     npm start

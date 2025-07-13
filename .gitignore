@@ -1,0 +1,16 @@
+# Server-side Python cache & virtual environment
+server/venv/
+server/__pycache__/
+server/__pycache__/*
+
+# Environment files
+.env
+*/.env
+
+# Node modules (if frontend has them)
+client/node_modules/
+node_modules/
+
+# Build outputs (optional)
+dist/
+build/
